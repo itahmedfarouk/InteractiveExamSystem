@@ -1,7 +1,6 @@
 # ExamSystemCSharp 🧠🎯
 [![.NET](https://img.shields.io/badge/.NET-8.0-512bd4)](https://dotnet.microsoft.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-informational)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success)](#)
 
 > A clean, **console-based Examination System** in C# showcasing **OOP** fundamentals (Inheritance, Polymorphism, Encapsulation, Abstraction) with a fully **interactive exam builder**.
